@@ -28,4 +28,4 @@
   
 ## Dashboard Preview
 ### Inventory Supply Chain Dashboard
-![Dashboard](Inventory_Supply_Chain_Dashboard.png)
+![Dashboard](Inventory_Dashboard.png)
